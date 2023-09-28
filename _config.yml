@@ -2,6 +2,7 @@
 title: Karl Lamothe
 description: Aquatic Science Biologist
 url: https://KarlLamothe.github.io
+paginate: 5
 avatar: /Profile_picture.jpeg
 cover_image: /Algonquin.jpg
 
@@ -9,6 +10,7 @@ cover_image: /Algonquin.jpg
 plugins:
   - jekyll-gist
   - jekyll-seo-tag
+  - jekyll-paginate
   - jekyll-feed
   - jekyll-sitemap
 
