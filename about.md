@@ -1,8 +1,6 @@
 ---
 layout: page
-title: About
+title: About me
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
-
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+I am an Aquatic Science Biologist with Fisheries and Oceans Canada at the Great Lakes Laboratory for Fisheries and Aquatic Sciences. My research is directed toward informing the recovery and management of freshwater fishes listed under the Species at Risk Act in Canada. Themes of my research include species reintroduction, monitoring program design, and improving our understanding of species-habitat associations, all to inform the conservation of freshwater fishes.
