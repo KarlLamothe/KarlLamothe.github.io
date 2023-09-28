@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Journal Articles
+author: Karl Lamothe
+date: 2023-09-28 15:06 +0800
 ---
 ## 2022
 Stage‐specific abiotic and biotic associations of the imperilled Silver Shiner Notropis photogenis in an urban drainage
