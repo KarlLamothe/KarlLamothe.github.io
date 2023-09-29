@@ -3,7 +3,6 @@ layout: post
 title: Government Reports
 author: Karl Lamothe
 ---
-# Government Reports
 List and links to my government reports.
 
 ## In Preparation
