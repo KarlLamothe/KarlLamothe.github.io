@@ -3,7 +3,6 @@ layout: post
 title: Journal Articles
 author: Karl Lamothe
 ---
-List and links for my peer reviewed publications. 
 Also see my [Google Scholar](https://scholar.google.com/citations?user=kU1hc6cAAAAJ&hl=en&oi=ao) or [ResearchGate](https://www.researchgate.net/profile/Karl-Lamothe) profiles.
 
 
