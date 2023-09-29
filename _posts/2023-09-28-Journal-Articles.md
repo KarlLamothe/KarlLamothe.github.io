@@ -9,7 +9,7 @@ Also see my [Google Scholar](https://scholar.google.com/citations?user=kU1hc6cAA
 
 
 ## 2022
-[Stage‐specific abiotic and biotic associations of the imperilled Silver Shiner Notropis photogenis in an urban drainage](https://dx.doi.org/10.1111/eff.12652)
+[Stage‐specific abiotic and biotic associations of the imperilled Silver Shiner _Notropis photogenis_ in an urban drainage](https://dx.doi.org/10.1111/eff.12652)
 - **Authors**: Karl A. Lamothe and D. Andrew R. Drake
 - **Journal**: Ecology of Freshwater Fish, 31(3), 571-582
 
