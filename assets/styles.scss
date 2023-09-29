@@ -24,7 +24,7 @@
 @import "layout";
 @import "sidebar";
 @import "posts";
-@import "archive";
+@import "archive";https://github.com/KarlLamothe/KarlLamothe.github.io/blob/master/assets/styles.scss
 @import "home-header";
 @import "pagination";
 @import "message";
@@ -51,4 +51,10 @@
   dd {
     margin-left: var(--spacer);
   }
+}
+
+@import "{{ site.theme }}";
+body {
+  font-family: 'OpenSans-Light';
+  src: url('/OpenSansFonts/OpenSans-LightItalic.ttf') format('truetype');
 }
