@@ -9,7 +9,7 @@
   icon: fab fa-github
 - title: BlueSky
   url: https://bsky.app/profile/karllamothe.bsky.social
-  icon: fab fa-square
+  icon: <i class="fad fa-square" style="--fa-primary-color: #3d7ef0; --fa-secondary-color: #3d7ef0;"></i>
 - title: ResearchGate
   url: https://researchgate.net/profile/karl-lamothe
   icon: fab fa-researchgate
