@@ -6,7 +6,7 @@ author: Karl Lamothe
 List and links to my presentations.
 
 ## 2023
-### 46) [Society of Canadian Aquatic Sciences - Early career panel on perspectives of the future for aquatic sciences
+### 46) Society of Canadian Aquatic Sciences - Early career panel on perspectives of the future for aquatic sciences
   - Virtual: October 2023
   - Watch here: [Youtube](https://www.youtube.com/watch?v=-0A7o0t5FrQ)
 
