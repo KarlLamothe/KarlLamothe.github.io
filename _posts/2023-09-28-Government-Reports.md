@@ -5,26 +5,11 @@ author: Karl Lamothe
 ---
 List and links to my government reports
 
-## In Preparation
-### Updated Recovery Potential Assessment of Eastern Sand Darter (_Ammocrypta pellucida_) in Ontario (Southwestern Ontario and West Lake Designatable Units), 2010-2022
-  - **Authors**: Fisheries and Oceans Canada
-  - **Outlet**: DFO Canadian Science Advisory Secretariat Science Response
-
-### Evaluating the Ecological Benefits, Feasibility, and Risks of an Experimental Eastern Sand Darter (_Ammocrypta pellucida_) Reintroduction in Ontario
-  - **Authors**: Karl A. Lamothe, Adam S. van der Lee, and D. Andrew R. Drake
-  - **Outlet**: DFO Canadian Science Advisory Secretariat Science Advisory Report
-  - **Outlet**: DFO Canadian Science Advisory Secretariat Research Document
-
-### Considerations for the Design of a SARA-listed Freshwater Fish Monitoring Program in Point Pelee National Park
-  - **Authors**: Karl A. Lamothe and D. Andrew R. Drake
-  - **Outlet**: DFO Canadian Manuscript Report for Fisheries and Aquatic Sciences
-
-## In Press, Awaiting Publication
+## 2023
 ### Power to Detect Changes in Occupancy and Abundance of Rare, Imperfectly Detected Species using Single-Season Hierarchical Models
   - **Authors**: Karl A. Lamothe, Adam S. van der Lee, Scott M. Reid, and D. Andrew R. Drake
   - **Outlet**: DFO Canadian Manuscript Report for Fisheries and Aquatic Sciences
 
-## 2023
 ### [Considerations Around Effort and Power for an Occupancy-based Redside Dace (_Clinostomus elongatus_) Monitoring Program across Spatial and Temporal Scales](https://www.dfo-mpo.gc.ca/csas-sccs/Publications/ResDocs-DocRech/2023/2023_034-eng.pdf)
   - **Authors**: Karl A. Lamothe, Scott M. Reid, and D. Andrew R. Drake
   - **Outlet**: DFO Canadian Science Advisory Secretariat Science Advisory Report 2023/021
@@ -58,3 +43,17 @@ List and links to my government reports
 ### Determination of Incorporation of Florida Largemouth Bass (_Micropterus salmoides floridanus_) Alleles in Northern Largemouth Bass (_Micropterus s. salmoides_) Populations of Several Arkansas Reservoirs using Microsatellite Analysis
   - **Authors**: Ronald L. Johnson and Karl Lamothe
   - **Outlet**: Report to the Arkansas Game and Fish Commission
+
+## In Preparation
+### Updated Recovery Potential Assessment of Eastern Sand Darter (_Ammocrypta pellucida_) in Ontario (Southwestern Ontario and West Lake Designatable Units), 2010-2022
+  - **Authors**: Fisheries and Oceans Canada
+  - **Outlet**: DFO Canadian Science Advisory Secretariat Science Response
+
+### Evaluating the Ecological Benefits, Feasibility, and Risks of an Experimental Eastern Sand Darter (_Ammocrypta pellucida_) Reintroduction in Ontario
+  - **Authors**: Karl A. Lamothe, Adam S. van der Lee, and D. Andrew R. Drake
+  - **Outlet**: DFO Canadian Science Advisory Secretariat Science Advisory Report
+  - **Outlet**: DFO Canadian Science Advisory Secretariat Research Document
+
+### Considerations for the Design of a SARA-listed Freshwater Fish Monitoring Program in Point Pelee National Park
+  - **Authors**: Karl A. Lamothe and D. Andrew R. Drake
+  - **Outlet**: DFO Canadian Manuscript Report for Fisheries and Aquatic Sciences
