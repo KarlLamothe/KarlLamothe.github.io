@@ -8,7 +8,7 @@ List and links to my government reports
 ## 2023
 ### Power to Detect Changes in Occupancy and Abundance of Rare, Imperfectly Detected Species using Single-Season Hierarchical Models
   - **Authors**: Karl A. Lamothe, Adam S. van der Lee, Scott M. Reid, and D. Andrew R. Drake
-  - **Outlet**: DFO Canadian Manuscript Report for Fisheries and Aquatic Sciences
+  - **Outlet**: DFO Canadian Manuscript Report for Fisheries and Aquatic Sciences 3271: v + 27 p.
 
 ### [Considerations Around Effort and Power for an Occupancy-based Redside Dace (_Clinostomus elongatus_) Monitoring Program across Spatial and Temporal Scales](https://www.dfo-mpo.gc.ca/csas-sccs/Publications/ResDocs-DocRech/2023/2023_034-eng.pdf)
   - **Authors**: Karl A. Lamothe, Scott M. Reid, and D. Andrew R. Drake
