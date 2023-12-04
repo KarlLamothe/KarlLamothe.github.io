@@ -6,6 +6,10 @@ author: Karl Lamothe
 List and links to my government reports
 
 ## 2023
+### Summary of Targeted Sampling for Silver Shiner (_Notropis photogenis_) in Sixteen Mile Creek, Ontario, 2022
+  - **Authors**: Lianna S. Lopez, Kayla D. Bruce, Karl A. Lamothe, Julia E. Colm, and D. Andrew R. Drake
+  - **Outlet**: DFO Data Report for Fisheries and Aquatic Sciences XXXX: vi + 27 p.
+
 ### [Power to Detect Changes in Occupancy and Abundance of Rare, Imperfectly Detected Species using Single-Season Hierarchical Models](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41213518.pdf)
   - **Authors**: Karl A. Lamothe, Adam S. van der Lee, Scott M. Reid, and D. Andrew R. Drake
   - **Outlet**: DFO Canadian Manuscript Report for Fisheries and Aquatic Sciences 3271: v + 27 p.
