@@ -54,7 +54,7 @@ List and links to my presentations.
   - Virtual: March 2021
   - Invited Oral Presentation: "Science to Inform the Recovery of SARA-listed Freshwater Fishes in the Great Lakes Basin"
 
-# Post-Doc Presentations
+# Post-Doc Presentations (2018-2020)
 ## 2020
 ### 36) [Regional Canadian Science Advisory Secretariat (CSAS) Meeting on the "Scientific advice on the design of a comprehensive long-term monitoring program for Redside Dace (_Clinostomus elongatus_) to inform recovery and management decisions"](https://www.dfo-mpo.gc.ca/csas-sccs/Schedule-Horraire/2020/02_04-eng.html)
   - Burlington, Ontario, Canada: February 2020
@@ -99,7 +99,7 @@ List and links to my presentations.
   - Edmonton, Alberta, Canada: January 2018
   - Oral Presentation: "Functional Diversity and Redundancy of Freshwater Fish Communities in Ontario Lakes"
 
-# PhD Presentations
+# PhD Presentations (2014-2017)
 ## 2017
 ### 26) [Ecological Society of America (ESA) Annual Meeting](https://www.esa.org/portland/#.WK7xCDsrLcs)
   - Portland, Oregon, United States: August 2017
