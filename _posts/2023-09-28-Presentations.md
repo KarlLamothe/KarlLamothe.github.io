@@ -6,10 +6,13 @@ author: Karl Lamothe
 List and links to my presentations.
 
 ## 2023
-### 47) University of Toronto - Ecology and Evolutionary Biology Department - Alumni panel on post-PhD experiences
+### 48) Weston Family Boreal Research Fellows - Panel of early career conservation professionals discussing career paths
   - Virtual: December 2023
 
-### 46) Society of Canadian Aquatic Sciences - Early career panel on perspectives of the future for aquatic sciences
+### 47) University of Toronto - Ecology and Evolutionary Biology Department - Panel of UofT alumni discussing post-PhD experiences
+  - Virtual: December 2023
+
+### 46) Society of Canadian Aquatic Sciences - Panel of early career scientists discussing the future for aquatic sciences
   - Virtual: October 2023
   - Watch here: [Youtube](https://www.youtube.com/watch?v=-0A7o0t5FrQ)
 
