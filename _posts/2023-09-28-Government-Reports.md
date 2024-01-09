@@ -8,7 +8,7 @@ List and links to my government reports
 ## 2024
 ### Summary of Targeted Sampling for Silver Shiner (_Notropis photogenis_) in Sixteen Mile Creek, Ontario, 2022
   - **Authors**: Lianna S. Lopez, Kayla D. Bruce, <ins>Karl A. Lamothe</ins>, Julia E. Colm, and D. Andrew R. Drake
-  - **Outlet**: DFO Data Report for Fisheries and Aquatic Sciences XXXX: vi + 27 p.
+  - **Outlet**: DFO Data Report for Fisheries and Aquatic Sciences 1383: vi + 27 p.
 
 ## 2023
 ### [Power to Detect Changes in Occupancy and Abundance of Rare, Imperfectly Detected Species using Single-Season Hierarchical Models](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41213518.pdf)
