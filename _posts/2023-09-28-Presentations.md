@@ -6,23 +6,19 @@ author: Karl Lamothe
 List and links to my presentations.
 
 ## 2023
-### 48) Weston Family Boreal Research Fellows - Participant on panel of early career conservation professionals discussing career paths
+### 47) Weston Family Boreal Research Fellows - Participant on panel of early career conservation professionals discussing career paths
   - Virtual: December 2023
 
-### 47) University of Toronto - Ecology and Evolutionary Biology Department - Participant on panel of UofT alumni discussing post-PhD experiences
+### 46) University of Toronto - Ecology and Evolutionary Biology Department - Participant on panel of UofT alumni discussing post-PhD experiences
   - Virtual: December 2023
 
-### 46) Society of Canadian Aquatic Sciences - Participant on panel of early career scientists discussing the future for aquatic sciences
+### 45) Society of Canadian Aquatic Sciences - Participant on panel of early career scientists discussing the future for aquatic sciences
   - Virtual: October 2023
   - Watch here: [Youtube](https://www.youtube.com/watch?v=-0A7o0t5FrQ)
 
-### 45) Fisheries and Oceans Canada Science Transfer Meeting - Great Lakes Laboratory for Fisheries and Aquatic Sciences
+### 44) Fisheries and Oceans Canada Science Transfer Meeting - Great Lakes Laboratory for Fisheries and Aquatic Sciences
   - Virtual: September 2023
   - Oral Presentation: "Development and implementation of the national decision-support framework for the conservation translocation of SARA-listed freshwater species"
-
-### 44) First Meeting of the Eastern Sand Darter Reintroduction Working Group
-  - Virtual: July 2023
-  - Oral Presentation: "Implementation and monitoring considerations for an Eastern Sand Darter reintroduction"
 
 ### 43) [Regional Canadian Science Advisory Secretariat Meeting on "Evaluating the Ecological Benefits and Risks of an Experimental Eastern Sand Darter (_Ammocrypta pellucida_) Reintroduction in Ontario"](https://www.dfo-mpo.gc.ca/csas-sccs/Schedule-Horraire/2023/04_03-06-eng.html)
   - Virtual: April 2023
