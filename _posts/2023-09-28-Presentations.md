@@ -5,6 +5,11 @@ author: Karl Lamothe
 ---
 List and links to my presentations.
 
+## 2024
+### 48) Redside Dace Recovery Team Translocation Subcommittee
+  - Burlington, Ontario: March 2024
+  - Oral Presentation: "Decision support framework for the conservation translocation of SARA-listed freshwater fishes and mussels" 
+
 ## 2023
 ### 47) Weston Family Boreal Research Fellows - Participant on panel of early career conservation professionals discussing career paths
   - Virtual: December 2023
