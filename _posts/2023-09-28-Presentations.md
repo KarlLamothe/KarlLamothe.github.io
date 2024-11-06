@@ -6,6 +6,10 @@ author: Karl Lamothe
 List and links to my presentations.
 
 ## 2024
+### 49) [Southern Ontario Stream Monitoring & Research Team (SOSMART) Fall 2024 Meeting](https://trca.ca/conservation/environmental-monitoring/southern-ontario-stream-monitoring-research-team/sosmart-biannual-meetings/)
+  - Pickering, Ontario: November 2024
+  - Oral Presentation: "Habitat stratification for maximizing the power to detect proportional declines in occupancy of an imperfectly detected imperilled species"
+
 ### 48) Redside Dace Recovery Team Translocation Subcommittee
   - Burlington, Ontario: March 2024
   - Oral Presentation: "Decision support framework for the conservation translocation of SARA-listed freshwater fishes and mussels" 
