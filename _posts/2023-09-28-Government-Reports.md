@@ -6,6 +6,10 @@ author: Karl Lamothe
 List and links to my government reports
 
 ## 2024
+### [Information Components to Inform Section 73 of the *Species at Risk Act* for Redside Dace (*Clinostomus elongatus*) and Silver Shiner (*Notropis photogenis*), and Review of the Proposed Cumulative Effects Assessment Framework - Ontario Highway 413 Project](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41272900.pdf)
+  - **Authors**: Emma E. Hodgson, Jacob W. Brownscombe, Cindy Chu,  Julia E. Colm, Roanne Collins, Roland Cormier, D. Andrew R. Drake, Haitham Ghamry, Paul Grant, Marten A. Koops, <ins>Karl A. Lamothe</ins>, Cathryn Clarke Murray, Drew Cheston, Brandi Mogg, Chris Strand, Brianna Wyn, Amy Boyko, Jessica Epp-Martindale, Scott Reid, Nicholas Mandrak, Gabriel Bernard-Lacaille, Justin Shead, and Joclyn E. Paulic
+  - **Outlet**: DFO Canadian Science Advisory Secretariat Science Response 2024/036
+
 ### [Summary of Targeted Sampling for Silver Shiner (_Notropis photogenis_) in Sixteen Mile Creek, Ontario, 2022](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41222337.pdf)
   - **Authors**: Lianna S. Lopez, Kayla D. Bruce, <ins>Karl A. Lamothe</ins>, Julia E. Colm, and D. Andrew R. Drake
   - **Outlet**: DFO Data Report for Fisheries and Aquatic Sciences 1383: vi + 27 p.
