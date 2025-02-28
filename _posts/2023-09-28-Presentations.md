@@ -4,63 +4,83 @@ title: Presentations
 author: Karl Lamothe
 ---
 List and links to my presentations.
+## 2025
+### 54) Society for Freshwater Science Annual Meeting
+  - San Juan, Puerto Rico: May 2025
+  - Poster Presentation given by Anna George: "Improving Aquatic Conservation Translocations through the Development of an Inventory and Practitioner Network"
+
+### 53) Society of Canadian Aquatic Sciences Annual Meeting
+  - Hamilton, Ontario, Canada: February 2025
+  - Oral Presentation given by Andrew Drake: "Decision Criteria for the Conservation Translocation of Freshwater Fishes in Canada"
+
+### 52) Society of Canadian Aquatic Sciences Annual Meeting
+  - Hamilton, Ontario, Canada: February 2025
+  - Oral Presentation given by Patrick Shaefer: "How a Machine Learning Model for Fish of Ontario’s Great Lakes Tributaries can Improve State of Resource Reporting"
 
 ## 2024
-### 49) [Southern Ontario Stream Monitoring & Research Team (SOSMART) Fall 2024 Meeting](https://trca.ca/conservation/environmental-monitoring/southern-ontario-stream-monitoring-research-team/sosmart-biannual-meetings/)
-  - Pickering, Ontario: November 2024
-  - Oral Presentation: "Habitat stratification for maximizing the power to detect proportional declines in occupancy of an imperfectly detected imperilled species"
+### 51) [Southern Ontario Stream Monitoring & Research Team (SOSMART) Fall 2024 Meeting](https://trca.ca/conservation/environmental-monitoring/southern-ontario-stream-monitoring-research-team/sosmart-biannual-meetings/)
+  - Pickering, Ontario, Canada: November 2024
+  - Oral Presentation: "Habitat Stratification for Maximizing the Power to Detect Proportional Declines in Occupancy of an Imperfectly Detected Imperilled Species"
 
-### 48) Redside Dace Recovery Team Translocation Subcommittee
-  - Burlington, Ontario: March 2024
-  - Oral Presentation: "Decision support framework for the conservation translocation of SARA-listed freshwater fishes and mussels" 
+### 50) American Fisheries Society Ontario Chapter Annual Meeting
+  - Severn Bridge, Ontario, Canada: February 2024
+  - Oral Presentation given by Andrew Drake: "Evaluating the Ecological Benefits, Risks, and Feasibility of Conservation Translocations: A Tribute to Al Dextrase"
+
+### 49) Redside Dace Recovery Team Translocation Subcommittee
+  - Burlington, Ontario, Canada: March 2024
+  - Oral Presentation: "Decision Support Framework for the Conservation Translocation of SARA-listed Fishes and Mussels" 
 
 ## 2023
-### 47) Weston Family Boreal Research Fellows - Participant on panel of early career conservation professionals discussing career paths
+### 48) Weston Family Boreal Research Fellows - Participant on panel of early career conservation professionals discussing career paths
   - Virtual: December 2023
 
-### 46) University of Toronto - Ecology and Evolutionary Biology Department - Participant on panel of UofT alumni discussing post-PhD experiences
+### 47) University of Toronto - Ecology and Evolutionary Biology Department - Participant on panel of UofT alumni discussing post-PhD experiences
   - Virtual: December 2023
 
-### 45) Society of Canadian Aquatic Sciences - Participant on panel of early career scientists discussing the future for aquatic sciences
+### 46) Society of Canadian Aquatic Sciences - Participant on panel of early career scientists discussing the future for aquatic sciences
   - Virtual: October 2023
   - Watch here: [Youtube](https://www.youtube.com/watch?v=-0A7o0t5FrQ)
 
-### 44) Fisheries and Oceans Canada Science Transfer Meeting - Great Lakes Laboratory for Fisheries and Aquatic Sciences
+### 45) Fisheries and Oceans Canada Science Transfer Meeting - Great Lakes Laboratory for Fisheries and Aquatic Sciences
   - Virtual: September 2023
-  - Oral Presentation: "Development and implementation of the national decision-support framework for the conservation translocation of SARA-listed freshwater species"
+  - Oral Presentation: "Development and Implementation of the National Decision-Support Framework for the Conservation Translocation of SARA-listed Freshwater Species"
 
-### 43) [Regional Canadian Science Advisory Secretariat Meeting on "Evaluating the Ecological Benefits and Risks of an Experimental Eastern Sand Darter (_Ammocrypta pellucida_) Reintroduction in Ontario"](https://www.dfo-mpo.gc.ca/csas-sccs/Schedule-Horraire/2023/04_03-06-eng.html)
+### 44) [Regional Canadian Science Advisory Secretariat Meeting on "Evaluating the Ecological Benefits and Risks of an Experimental Eastern Sand Darter (_Ammocrypta pellucida_) Reintroduction in Ontario"](https://www.dfo-mpo.gc.ca/csas-sccs/Schedule-Horraire/2023/04_03-06-eng.html)
   - Virtual: April 2023
   - Oral Presentation, Research Document, and Science Advsiory Report: Evaluating the Ecological Benefits and Risks of an Experimental Eastern Sand Darter (_Ammocrypta pellucida_) Reintroduction in Ontario
 
 ## 2022
-### 42) [Southern Ontario Stream Monitoring & Research Team (SOSMART) Fall 2022 Meeting](https://trca.ca/conservation/environmental-monitoring/southern-ontario-stream-monitoring-research-team/sosmart-biannual-meetings/)
+### 43) [Southern Ontario Stream Monitoring & Research Team (SOSMART) Fall 2022 Meeting](https://trca.ca/conservation/environmental-monitoring/southern-ontario-stream-monitoring-research-team/sosmart-biannual-meetings/)
   - Virtual: November 2022
   - Invited Oral Presentation: "Confidence in Monitoring Data: Power and Effort Needs for Delineating Change in Imperfectly Detected Stream Fishes"
 
-### 41) Great Lakes Laboratory for Fisheries and Aquatic Sciences Science Research Seminar Series
+### 42) Great Lakes Laboratory for Fisheries and Aquatic Sciences Science Research Seminar Series
   - Virtual: October 2022
   - Invited Oral Presentation: "Creating a Decision Support Framework for Implementing Conservation Translocations of SARA-listed Freshwater Fish and Mussel Species in Canada"
 
-### 40) [Joint meeting of the Ecological Society of America and Canadian Society for Ecology and Evolution](https://www.esa.org/montreal2022/)
-  - Montreal, Quebec: August 2022
+### 41) [Joint meeting of the Ecological Society of America and Canadian Society for Ecology and Evolution](https://www.esa.org/montreal2022/)
+  - Montreal, Quebec, Canada: August 2022
   - Oral Presentation: "Creating a Decision Support Framework for Implementing Conservation Translocations of SARA-listed Freshwater Fish and Mussel Species in Canada"
 
 ## 2021
-### 39) [National Canadian Science Advisory Secretariat (CSAS) Meeting on the "Decision-support framework for the conservation translocation of freshwater Species at Risk"](https://www.dfo-mpo.gc.ca/csas-sccs/Schedule-Horraire/2021/10_19-22-eng.html)
+### 40) [National Canadian Science Advisory Secretariat (CSAS) Meeting on the "Decision-support framework for the conservation translocation of freshwater Species at Risk"](https://www.dfo-mpo.gc.ca/csas-sccs/Schedule-Horraire/2021/10_19-22-eng.html)
   - Virtual: October 2021
   - Oral Presentation, Research Document, and Science Advisory Report: "Decision-support Framework for the Conservation Translocation of Freshwater Species at Risk"
 
-### 38) [Freshwater Mollusk Conservation Society Annual Meeting](https://molluskconservation.org/Events.html)
+### 39) [Freshwater Mollusk Conservation Society Annual Meeting](https://molluskconservation.org/Events.html)
   - Virtual: March 2021
   - Oral Presentation: "Detection and Habitat Associations of Wavyrayed Lampmussel in Ontario, Canada"
 
-### 37) York University
+### 38) York University
   - Virtual: March 2021
   - Invited Oral Presentation: "Science to Inform the Recovery of SARA-listed Freshwater Fishes in the Great Lakes Basin"
 
 # Post-Doc Presentations (2018-2020)
 ## 2020
+### 37) American Fisheries Society Ontario Chapter Annual Meeting
+  - Orillia, Ontario, Canada: February 2020
+  - Oral Presentation given by Robin Gaspardy: "The status of Pugnose Minnow  (Opsopoeodus emiliae, SARA:THR) in Canada"
+
 ### 36) [Regional Canadian Science Advisory Secretariat (CSAS) Meeting on the "Scientific advice on the design of a comprehensive long-term monitoring program for Redside Dace (_Clinostomus elongatus_) to inform recovery and management decisions"](https://www.dfo-mpo.gc.ca/csas-sccs/Schedule-Horraire/2020/02_04-eng.html)
   - Burlington, Ontario, Canada: February 2020
   - Oral Presentation and Research Document: "Considerations Around Effort and Power for an Occupancy Based Redside Dace Clinostomus elongatus Monitoring Program Across Spatial and Temporal Scales"
