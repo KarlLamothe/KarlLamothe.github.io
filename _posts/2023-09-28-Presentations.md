@@ -4,6 +4,7 @@ title: Presentations
 author: Karl Lamothe
 ---
 List and links to my presentations.
+
 ## 2025
 ### 54) Society for Freshwater Science Annual Meeting
   - San Juan, Puerto Rico: May 2025
