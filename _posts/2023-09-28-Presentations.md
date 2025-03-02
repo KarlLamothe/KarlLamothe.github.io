@@ -3,7 +3,7 @@ layout: post
 title: Presentations
 author: Karl Lamothe
 ---
-List and links to my presentations.
+List of my presentations (or contributions to).
 
 ## 2025
 ### 54) Society for Freshwater Science Annual Meeting
@@ -19,7 +19,7 @@ List and links to my presentations.
   - Oral Presentation given by Patrick Shaefer: "How a Machine Learning Model for Fish of Ontario’s Great Lakes Tributaries can Improve State of Resource Reporting"
 
 ## 2024
-### 51) [Southern Ontario Stream Monitoring & Research Team (SOSMART) Fall 2024 Meeting](https://trca.ca/conservation/environmental-monitoring/southern-ontario-stream-monitoring-research-team/sosmart-biannual-meetings/)
+### 51) Southern Ontario Stream Monitoring & Research Team Fall 2024 Meeting
   - Pickering, Ontario, Canada: November 2024
   - Oral Presentation: "Habitat Stratification for Maximizing the Power to Detect Proportional Declines in Occupancy of an Imperfectly Detected Imperilled Species"
 
@@ -46,12 +46,12 @@ List and links to my presentations.
   - Virtual: September 2023
   - Oral Presentation: "Development and Implementation of the National Decision-Support Framework for the Conservation Translocation of SARA-listed Freshwater Species"
 
-### 44) [Regional Canadian Science Advisory Secretariat Meeting on "Evaluating the Ecological Benefits and Risks of an Experimental Eastern Sand Darter (_Ammocrypta pellucida_) Reintroduction in Ontario"](https://www.dfo-mpo.gc.ca/csas-sccs/Schedule-Horraire/2023/04_03-06-eng.html)
+### 44) Regional Canadian Science Advisory Secretariat Meeting on "Evaluating the Ecological Benefits and Risks of an Experimental Eastern Sand Darter (_Ammocrypta pellucida_) Reintroduction in Ontario"
   - Virtual: April 2023
   - Oral Presentation, Research Document, and Science Advsiory Report: Evaluating the Ecological Benefits and Risks of an Experimental Eastern Sand Darter (_Ammocrypta pellucida_) Reintroduction in Ontario
 
 ## 2022
-### 43) [Southern Ontario Stream Monitoring & Research Team (SOSMART) Fall 2022 Meeting](https://trca.ca/conservation/environmental-monitoring/southern-ontario-stream-monitoring-research-team/sosmart-biannual-meetings/)
+### 43) Southern Ontario Stream Monitoring & Research Team Fall 2022 Meeting
   - Virtual: November 2022
   - Invited Oral Presentation: "Confidence in Monitoring Data: Power and Effort Needs for Delineating Change in Imperfectly Detected Stream Fishes"
 
@@ -59,16 +59,16 @@ List and links to my presentations.
   - Virtual: October 2022
   - Invited Oral Presentation: "Creating a Decision Support Framework for Implementing Conservation Translocations of SARA-listed Freshwater Fish and Mussel Species in Canada"
 
-### 41) [Joint meeting of the Ecological Society of America and Canadian Society for Ecology and Evolution](https://www.esa.org/montreal2022/)
+### 41) Joint meeting of the Ecological Society of America and Canadian Society for Ecology and Evolution
   - Montreal, Quebec, Canada: August 2022
   - Oral Presentation: "Creating a Decision Support Framework for Implementing Conservation Translocations of SARA-listed Freshwater Fish and Mussel Species in Canada"
 
 ## 2021
-### 40) [National Canadian Science Advisory Secretariat (CSAS) Meeting on the "Decision-support framework for the conservation translocation of freshwater Species at Risk"](https://www.dfo-mpo.gc.ca/csas-sccs/Schedule-Horraire/2021/10_19-22-eng.html)
+### 40) National Canadian Science Advisory Secretariat Meeting on the "Decision-support framework for the conservation translocation of freshwater Species at Risk"
   - Virtual: October 2021
   - Oral Presentation, Research Document, and Science Advisory Report: "Decision-support Framework for the Conservation Translocation of Freshwater Species at Risk"
 
-### 39) [Freshwater Mollusk Conservation Society Annual Meeting](https://molluskconservation.org/Events.html)
+### 39) Freshwater Mollusk Conservation Society Annual Meeting
   - Virtual: March 2021
   - Oral Presentation: "Detection and Habitat Associations of Wavyrayed Lampmussel in Ontario, Canada"
 
@@ -82,7 +82,7 @@ List and links to my presentations.
   - Orillia, Ontario, Canada: February 2020
   - Oral Presentation given by Robin Gaspardy: "The status of Pugnose Minnow  (Opsopoeodus emiliae, SARA:THR) in Canada"
 
-### 36) [Regional Canadian Science Advisory Secretariat (CSAS) Meeting on the "Scientific advice on the design of a comprehensive long-term monitoring program for Redside Dace (_Clinostomus elongatus_) to inform recovery and management decisions"](https://www.dfo-mpo.gc.ca/csas-sccs/Schedule-Horraire/2020/02_04-eng.html)
+### 36) Regional Canadian Science Advisory Secretariat Meeting on the "Scientific advice on the design of a comprehensive long-term monitoring program for Redside Dace (_Clinostomus elongatus_) to inform recovery and management decisions"
   - Burlington, Ontario, Canada: February 2020
   - Oral Presentation and Research Document: "Considerations Around Effort and Power for an Occupancy Based Redside Dace Clinostomus elongatus Monitoring Program Across Spatial and Temporal Scales"
 
@@ -91,7 +91,7 @@ List and links to my presentations.
   - Burlington, Ontario, Canada: November 2019
   - Oral Presentation: "Reintroduction of SARA-listed Fishes in Canada: Where Are We Now and Where Are We Going?"
 
-### 34) [International Association for Great Lakes Research (IAGLR) Annual Meeting](https://iaglr.org/iaglr2019/)
+### 34) International Association for Great Lakes Research Annual Meeting
   - Brockport, New York, United States: June 2019
   - Session Co-organizer and Moderator: "Imperiled Species in the Great Lakes Basin: Identifying Threats and Restoring Populations"
   - Oral Presentation: "Status of Reintroduction Efforts for SARA-listed Fishes in Canada"
@@ -100,11 +100,11 @@ List and links to my presentations.
   - Virtual: March 2019
   - Invited Oral Presentation: Dialogue on the topic of species reintroductions with students from the RenewZoo Research and Training Program
 
-### 32) [American Fisheries Society Ontario Chapter (AFS-OC) Annual General Meeting](http://www.afs-oc.org/about-us/2019-afs-oc-annual-meeting/)
+### 32) American Fisheries Society Ontario Chapter Annual General Meeting
   - Orillia, Ontario, Canada: February 2019
   - Invited Oral Presentation: "Moving Repatriation Efforts Forward for Imperilled Canadian Freshwater Fishes"
 
-### 31) Canadian Conference for Fisheries Research (CCFFR) Annual Meeting
+### 31) Canadian Conference for Fisheries Research Annual Meeting
   - London, Ontario, Canada: January 2019
   - Oral Presentation: "Characterizing Species Co-occurrence Patterns of Imperfectly Detected Stream Fishes to Inform Eastern Sand Darter Repatriation Efforts"
 
@@ -121,17 +121,17 @@ List and links to my presentations.
   - Burlington, Ontario, Canada: September 2018
   - Invited Oral Presentation: "Current Status and Information Needs for the Repatriation of Imperilled Freshwater Fishes"
 
-### 27) Canadian Conference for Fisheries Research (CCFFR) Annual Meeting
+### 27) Canadian Conference for Fisheries Research Annual Meeting
   - Edmonton, Alberta, Canada: January 2018
   - Oral Presentation: "Functional Diversity and Redundancy of Freshwater Fish Communities in Ontario Lakes"
 
 # PhD Presentations (2014-2017)
 ## 2017
-### 26) [Ecological Society of America (ESA) Annual Meeting](https://www.esa.org/portland/#.WK7xCDsrLcs)
+### 26) Ecological Society of America Annual Meeting
   - Portland, Oregon, United States: August 2017
   - Oral Presentation given by Adviser Dr. Donald Jackson: "Evaluating Ecological Community Change and Resilience using Multivariate Gradient Analyses"
 
-### 25) [Society for Freshwater Science (SFS) Annual Meeting](https://jasm2022.aquaticsocieties.org/)
+### 25) Society for Freshwater Science Annual Meeting
   - Raleigh, North Carolina, United States: June 2017
   - Chaired Special Session: "Understanding and Mitigating Change in Aquatic Ecosystem Services"
   - Oral Presentation: "Quantifying Community-Level Resistance and Resilience to Disturbance: An Example from Ontario Zooplankton Communities Experiencing Acidification"
@@ -149,11 +149,11 @@ List and links to my presentations.
   - Montréal, Quebec, Canada: March 2017
   - Oral Presentation: "Non-provisioning Ecosystem Services as a Driver of Change in the Boreal Zone, Canada"
 
-### 21) Association for the Sciences of Limnology and Oceanography (ASLO) Aquatic Sciences Meeting
+### 21) Association for the Sciences of Limnology and Oceanography Aquatic Sciences Meeting
   - Honolulu, Hawaii, United States: February 2017
   - Poster Presentation: "Using Gradient Simulations to Aid in Resilience Metric Development"
 
-### 20) Canadian Conference for Fisheries Research (CCFFR) Annual Meeting
+### 20) Canadian Conference for Fisheries Research Annual Meeting
   - Montréal, Quebec, Canada: January 2017
   - Oral Presentation: "Utilizing Gradient Simulations for Developing Measures of Community-Level Resilience to Disturbance"
 
@@ -162,7 +162,7 @@ List and links to my presentations.
   - Montréal, Quebec, Canada: May 2016
   - Oral Presentation: "Non-provisioning Ecosystem Services as a Driver of Change in the Boreal Zone, Canada"
 
-### 18) [Muskoka Summit on the Environment: Solutions for a Warming World](https://muskokasummit.org/2016-summit/)
+### 18) Muskoka Summit on the Environment: Solutions for a Warming World
   - Bracebridge, Ontario, Canada: May 2016
   - Poster Presentation: "Quantifying the Resilience of Ontario Freshwater Fish Communities to a Warming Environment"
     - _For summary of poster_: [Link](https://muskokasummit.org/2016-summit/poster-session/2016-poster-summaries/)
@@ -179,7 +179,7 @@ List and links to my presentations.
   - Sudbury, Ontario, Canada: March 2016
   - Invited Oral Presentation: "Resilience: a Perspective for Ecosystem Management and Challenge for Quantitative Ecologists"
 
-### 14) [American Fisheries Society: Ontario Chapter Annual General Meeting](https://www.afs-oc.org/about-us/2016-afs-oc-annual-meeting/)
+### 14) American Fisheries Society: Ontario Chapter Annual General Meeting
   - Geneva Park, Orillia, Ontario, Canada: February 2016
   - Poster Presentation: "Quantifying the Resilience of Communities to Disturbance using a Multivariate Approach*"
     - _Won Ontario B.A.S.S. Nation Best Student Poster Award_
@@ -200,7 +200,7 @@ List and links to my presentations.
   - Portland, Oregon, United States: May 2014
   - Oral Presentation: "Quantifying Ecological Resilience: A Simulation Study"
 
-### 10) [Muskoka Summit on the Environment: Environment vs. Economy](https://muskokasummit.org/2014-summit/)
+### 10) Muskoka Summit on the Environment: Environment vs. Economy
   - Bracebridge, Ontario, Canada: May 2014
   - Poster Presentation: "Using Circular Statistics to Quantify Ecological Resilience: A Simulation Study*"
     - _Received Best Poster Award_
@@ -210,24 +210,24 @@ List and links to my presentations.
   - Poster Presentation and 3-Minute Lightning Talk: "Evaluating Ecosystem Health/condition by Quantifying Ecological Resilience"
 
 # MSc Presentations (2012-2013)
-### 8) [American Fisheries Society 143rd Annual Meeting](https://afs.confex.com/afs/2013/webprogram/meeting.html)
+### 8) American Fisheries Society 143rd Annual Meeting
   - Little Rock, Arkansas, United States: September 2013
   - Oral Presentation: "Condition, Longevity, and Size Differences of Largemouth Bass Relative to Genetic Composition in Southern Arkansas Reservoirs having Introgressed Populations"
 
-### 7) [97th Annual Meeting of the Arkansas Academy of Science](http://www.arkansasacademyofscience.org/)
+### 7) 97th Annual Meeting of the Arkansas Academy of Science
   - Little Rock, Arkansas, United States: April 2013
   - Oral Presentation: "Microsatellite Analysis of Trophy Largemouth Bass from Arkansas Reservoirs"
 
-### 6) [67th Annual Meeting of the Southeastern Association of Fish and Wildlife Agencies](https://seafwa.org/conference)
+### 6) 67th Annual Meeting of the Southeastern Association of Fish and Wildlife Agencies
   - Hot Springs, Arkansas, United States: October 2012
   - Oral Presentation: "Shifting Genetic Composition of Largemouth Bass Populations in Dendritic Arms of Two Large Arkansas Reservoirs through Stocking of Florida Largemouth Bass"
 
 # BSc Presentations (≤ 2011)
-### 5) [Joint Meeting of the 11th North American Crane Workshop and the 34th Annual Meeting of The Waterbird Society](https://waterbirds.org/)
+### 5) Joint Meeting of the 11th North American Crane Workshop and the 34th Annual Meeting of The Waterbird Society
   - Grand Island, Nebraska, United States: March 2011
   - Oral Presentation: "Genetic Variation and Population Structure of Black Terns in Europe"
 
-### 4) [Eastern Colleges Science Conference](https://ecsc1.org/)
+### 4) Eastern Colleges Science Conference
   - Wagner College, Staten Island, New York, United States: April 2009
   - Oral Presentation: "Molecular Genetic Analysis of Black Terns using Microsatellite Markers"
 
