@@ -48,7 +48,7 @@ List of my presentations (or contributions to).
 
 ### 44) Regional Canadian Science Advisory Secretariat Meeting on "Evaluating the Ecological Benefits and Risks of an Experimental Eastern Sand Darter (_Ammocrypta pellucida_) Reintroduction in Ontario"
   - Virtual: April 2023
-  - Oral Presentation, Research Document, and Science Advsiory Report: Evaluating the Ecological Benefits and Risks of an Experimental Eastern Sand Darter (_Ammocrypta pellucida_) Reintroduction in Ontario
+  - Oral Presentation, Research Document, and Science Advsiory Report: "Evaluating the Ecological Benefits and Risks of an Experimental Eastern Sand Darter (_Ammocrypta pellucida_) Reintroduction in Ontario"
 
 ## 2022
 ### 43) Southern Ontario Stream Monitoring & Research Team Fall 2022 Meeting
@@ -80,7 +80,7 @@ List of my presentations (or contributions to).
 ## 2020
 ### 37) American Fisheries Society Ontario Chapter Annual Meeting
   - Orillia, Ontario, Canada: February 2020
-  - Oral Presentation given by Robin Gaspardy: "The status of Pugnose Minnow  (Opsopoeodus emiliae, SARA:THR) in Canada"
+  - Oral Presentation given by Robin Gáspárdy: "The Status of Pugnose Minnow  (_Opsopoeodus emiliae_, SARA:THR) in Canada"
 
 ### 36) Regional Canadian Science Advisory Secretariat Meeting on the "Scientific advice on the design of a comprehensive long-term monitoring program for Redside Dace (_Clinostomus elongatus_) to inform recovery and management decisions"
   - Burlington, Ontario, Canada: February 2020
