@@ -120,3 +120,12 @@ List and links to my journal articles. Also see my [Google Scholar](https://scho
 ### [Shifting genetic composition of largemouth bass populations in dendritic arms of two large Arkansas reservoirs through stocking of Florida largemouth bass](http://www.seafwa.org/pdfs/articles/15Lamotheetal82-87.pdf)
 - **Authors**: <ins>Karl A. Lamothe</ins>, Ryan M. Allen, Christopher Cato, Kelly Winningham, Colton Dennis, and Ronald L. Johnson
 - **Journal**: Proceedings of Annual Conference of Southeastern Association of Fish and Wildlife Agencies, 66, 82-87
+
+## Accepted
+### Habitat stratification for maximizing the power to detect proportional declines in occupancy of an imperfectly detected imperilled species
+- **Authors**: <ins>Karl A. Lamothe</ins>, Matt M. Guzzo, Neil J. Mochnacz, and D. Andrew R. Drake
+- **Journal**: Canadian Journal of Fisheries and Aquatic Sciences
+
+### Habitat associations and abundance estimates for two least-disturbed Redside Dace (*Clinostomus elongatus*) populations in tributaries of Lake Huron (Ontario, Canada)
+- **Authors**: <ins>Karl A. Lamothe</ins> and D. Andrew R. Drake
+- **Journal**: Canadian Journal of Fisheries and Aquatic Sciences
