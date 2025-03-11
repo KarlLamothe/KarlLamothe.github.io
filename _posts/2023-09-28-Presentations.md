@@ -6,9 +6,13 @@ author: Karl Lamothe
 List of my presentations (or contributions to).
 
 ## 2025
-### 54) Society for Freshwater Science Annual Meeting
+### 55) Society for Freshwater Science Annual Meeting
   - San Juan, Puerto Rico: May 2025
   - Poster Presentation given by Anna George: "Improving Aquatic Conservation Translocations through the Development of an Inventory and Practitioner Network"
+
+### 54) Long Point Region Conservation Authority
+  - Tillsonburg, Ontario, Canada: March 2025
+  - Oral Presentation: "Evaluating the Ecological Benefits and Risks of an Experimental Eastern Sand Darter (_Ammocrypta pellucida_) Reintroduction in Big Otter Creek"
 
 ### 53) Society of Canadian Aquatic Sciences Annual Meeting
   - Hamilton, Ontario, Canada: February 2025
