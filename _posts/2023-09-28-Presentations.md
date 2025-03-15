@@ -12,11 +12,11 @@ List of my presentations (or contributions to).
 
 ### 56) Fisheries and Oceans Canada 2025 Spring Science Showcase
   - Virtual, April 2025
-  - Oral Presentation: "Habitat Mapping in the Canard River, Ontario using Conventional and Sonar Techniques: Implications for Pugnose Minnow Recovery"
+  - Invited Oral Presentation: "Habitat Mapping in the Canard River, Ontario using Conventional and Sonar Techniques: Implications for Pugnose Minnow Recovery"
 
 ### 55) Fisheries and Oceans Canada 2025 Spring Science Showcase
   - Virtual, April 2025
-  - Oral Presentation: "Conservation Translocations of SARA-listed Species: A Summary of Progress for Eastern Sand Darter (_Ammocrypta pellucida_) and Redside Dace (_Clinostomus elongatus_) in Canada"
+  - Invited Oral Presentation: "Conservation Translocations of SARA-listed Species: A Summary of Progress for Eastern Sand Darter (_Ammocrypta pellucida_) and Redside Dace (_Clinostomus elongatus_) in Canada"
     
 ### 54) Long Point Region Conservation Authority
   - Tillsonburg, Ontario, Canada: March 2025
@@ -33,11 +33,11 @@ List of my presentations (or contributions to).
 ## 2024
 ### 51) Southern Ontario Stream Monitoring & Research Team Fall 2024 Meeting
   - Pickering, Ontario, Canada: November 2024
-  - Oral Presentation: "Habitat Stratification for Maximizing the Power to Detect Proportional Declines in Occupancy of an Imperfectly Detected Imperilled Species"
+  - Invited Oral Presentation: "Habitat Stratification for Maximizing the Power to Detect Proportional Declines in Occupancy of an Imperfectly Detected Imperilled Species"
 
 ### 50) American Fisheries Society Ontario Chapter Annual Meeting
   - Severn Bridge, Ontario, Canada: February 2024
-  - Oral Presentation given by Andrew Drake: "Evaluating the Ecological Benefits, Risks, and Feasibility of Conservation Translocations: A Tribute to Al Dextrase"
+  - Invited Oral Presentation given by Andrew Drake: "Evaluating the Ecological Benefits, Risks, and Feasibility of Conservation Translocations: A Tribute to Al Dextrase"
 
 ### 49) Redside Dace Recovery Team Translocation Subcommittee
   - Burlington, Ontario, Canada: March 2024
