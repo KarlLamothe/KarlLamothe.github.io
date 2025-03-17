@@ -12,7 +12,7 @@ List of my presentations (or contributions to).
 
 ### 56) Fisheries and Oceans Canada 2025 Spring Science Showcase
   - Virtual, April 2025
-  - Invited Oral Presentation: "Habitat Mapping in the Canard River, Ontario using Conventional and Sonar Techniques: Implications for Pugnose Minnow Recovery"
+  - Invited Oral Presentation: "Habitat Mapping in the Canard River, Ontario using Conventional, Rake, and Sonar Techniques to Support Pugnose Minnow Recovery"
 
 ### 55) Fisheries and Oceans Canada 2025 Spring Science Showcase
   - Virtual, April 2025
