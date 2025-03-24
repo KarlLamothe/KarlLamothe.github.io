@@ -20,7 +20,7 @@ List of my presentations (or contributions to).
     
 ### 54) Long Point Region Conservation Authority
   - Tillsonburg, Ontario, Canada: March 2025
-  - Oral Presentation: "Evaluating the Ecological Benefits and Risks of an Experimental Eastern Sand Darter (_Ammocrypta pellucida_) Reintroduction in Big Otter Creek"
+  - Oral Presentation given by Andrew Drake: "Evaluating the Ecological Benefits and Risks of an Experimental Eastern Sand Darter (_Ammocrypta pellucida_) Reintroduction in Big Otter Creek"
 
 ### 53) Society of Canadian Aquatic Sciences Annual Meeting
   - Hamilton, Ontario, Canada: February 2025
