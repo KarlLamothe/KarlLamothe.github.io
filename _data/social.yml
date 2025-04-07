@@ -1,9 +1,6 @@
 - title: Email
   url: mailto://karl.lamothe07@gmail.com
   icon: fas fa-envelope
-- title: Twitter
-  url: https://twitter.com/KarlLamothe
-  icon: fab fa-twitter
 - title: GitHub
   url: https://github.com/KarlLamothe
   icon: fab fa-github
