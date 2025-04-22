@@ -5,11 +5,6 @@ author: Karl Lamothe
 ---
 List and links to my journal articles. Also see my [Google Scholar](https://scholar.google.com/citations?user=kU1hc6cAAAAJ&hl=en&oi=ao) or [ResearchGate](https://www.researchgate.net/profile/Karl-Lamothe) profiles.
 
-## In Press
-### Habitat stratification for maximizing the power to detect proportional declines in occupancy of an imperilled freshwater fish species
-- **Authors**: <ins>Karl A. Lamothe</ins>, Matthew M. Guzzo, Neil J. Mochnacz, and D. Andrew R. Drake
-- **Journal**: Canadian Journal of Fisheries and Aquatic Sciences
-
 ## 2022
 ### [Stage‐specific abiotic and biotic associations of the imperilled Silver Shiner _Notropis photogenis_ in an urban drainage](https://dx.doi.org/10.1111/eff.12652)
 - **Authors**: <ins>Karl A. Lamothe</ins> and D. Andrew R. Drake
@@ -128,4 +123,8 @@ List and links to my journal articles. Also see my [Google Scholar](https://scho
 ## Accepted
 ### Habitat associations and abundance estimates for two least-disturbed Redside Dace (*Clinostomus elongatus*) populations in tributaries of Lake Huron (Ontario, Canada)
 - **Authors**: <ins>Karl A. Lamothe</ins> and D. Andrew R. Drake
+- **Journal**: Canadian Journal of Fisheries and Aquatic Sciences
+
+### Habitat stratification for maximizing the power to detect proportional declines in occupancy of an imperilled freshwater fish species
+- **Authors**: <ins>Karl A. Lamothe</ins>, Matthew M. Guzzo, Neil J. Mochnacz, and D. Andrew R. Drake
 - **Journal**: Canadian Journal of Fisheries and Aquatic Sciences
