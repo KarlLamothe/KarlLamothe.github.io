@@ -7,7 +7,7 @@ List and links to my journal articles. Also see my [Google Scholar](https://scho
 
 ## In Press
 ### Habitat stratification for maximizing the power to detect proportional declines in occupancy of an imperilled freshwater fish species
-- **Authors**: <ins>Karl A. Lamothe</ins>, Matt M. Guzzo, Neil J. Mochnacz, and D. Andrew R. Drake
+- **Authors**: <ins>Karl A. Lamothe</ins>, Matthew M. Guzzo, Neil J. Mochnacz, and D. Andrew R. Drake
 - **Journal**: Canadian Journal of Fisheries and Aquatic Sciences
 
 ## 2022
