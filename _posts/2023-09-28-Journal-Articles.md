@@ -5,6 +5,15 @@ author: Karl Lamothe
 ---
 List and links to my journal articles. Also see my [Google Scholar](https://scholar.google.com/citations?user=kU1hc6cAAAAJ&hl=en&oi=ao) or [ResearchGate](https://www.researchgate.net/profile/Karl-Lamothe) profiles.
 
+## 2025
+### Habitat associations and abundance estimates for two least-disturbed Redside Dace (*Clinostomus elongatus*) populations in tributaries of Lake Huron (Ontario, Canada)
+- **Authors**: <ins>Karl A. Lamothe</ins> and D. Andrew R. Drake
+- **Journal**: Canadian Journal of Fisheries and Aquatic Sciences
+
+### [Habitat stratification for maximizing the power to detect proportional declines in occupancy of an imperilled freshwater fish species](https://doi.org/10.1139/cjfas-2024-0389)
+- **Authors**: <ins>Karl A. Lamothe</ins>, Matthew M. Guzzo, Neil J. Mochnacz, and D. Andrew R. Drake
+- **Journal**: Canadian Journal of Fisheries and Aquatic Sciences
+
 ## 2022
 ### [Stage‐specific abiotic and biotic associations of the imperilled Silver Shiner _Notropis photogenis_ in an urban drainage](https://dx.doi.org/10.1111/eff.12652)
 - **Authors**: <ins>Karl A. Lamothe</ins> and D. Andrew R. Drake
@@ -119,12 +128,3 @@ List and links to my journal articles. Also see my [Google Scholar](https://scho
 ### [Shifting genetic composition of largemouth bass populations in dendritic arms of two large Arkansas reservoirs through stocking of Florida largemouth bass](http://www.seafwa.org/pdfs/articles/15Lamotheetal82-87.pdf)
 - **Authors**: <ins>Karl A. Lamothe</ins>, Ryan M. Allen, Christopher Cato, Kelly Winningham, Colton Dennis, and Ronald L. Johnson
 - **Journal**: Proceedings of Annual Conference of Southeastern Association of Fish and Wildlife Agencies, 66, 82-87
-
-## Accepted
-### Habitat associations and abundance estimates for two least-disturbed Redside Dace (*Clinostomus elongatus*) populations in tributaries of Lake Huron (Ontario, Canada)
-- **Authors**: <ins>Karl A. Lamothe</ins> and D. Andrew R. Drake
-- **Journal**: Canadian Journal of Fisheries and Aquatic Sciences
-
-### Habitat stratification for maximizing the power to detect proportional declines in occupancy of an imperilled freshwater fish species
-- **Authors**: <ins>Karl A. Lamothe</ins>, Matthew M. Guzzo, Neil J. Mochnacz, and D. Andrew R. Drake
-- **Journal**: Canadian Journal of Fisheries and Aquatic Sciences
