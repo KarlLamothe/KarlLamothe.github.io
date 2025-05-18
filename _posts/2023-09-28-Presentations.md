@@ -11,11 +11,11 @@ List of my presentations (or contributions to).
   - Poster Presentation given by Anna George: "Improving Aquatic Conservation Translocations through the Development of an Inventory and Practitioner Network"
 
 ### 56) Fisheries and Oceans Canada 2025 Spring Science Showcase
-  - Virtual, April 2025
+  - Virtual: April 2025
   - Invited Oral Presentation: "Habitat Mapping in the Canard River, Ontario using Conventional, Rake, and Sonar Techniques to Support Pugnose Minnow Recovery"
 
 ### 55) Fisheries and Oceans Canada 2025 Spring Science Showcase
-  - Virtual, April 2025
+  - Virtual: April 2025
   - Invited Oral Presentation: "Conservation Translocations of SARA-listed Species: A Summary of Progress for Eastern Sand Darter (_Ammocrypta pellucida_) and Redside Dace (_Clinostomus elongatus_) in Canada"
     
 ### 54) Long Point Region Conservation Authority
