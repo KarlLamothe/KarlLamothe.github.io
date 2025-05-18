@@ -5,6 +5,11 @@ author: Karl Lamothe
 ---
 List and links to my government reports
 
+## 2025
+### Disease Screening of Fishes in Candidate Source and Recipient Locations to Inform Eastern Sand Darter Reintroduction
+  - **Authors**: <ins>Karl A. Lamothe</ins>, David Groman, Carly White, Jason Barnucz, Robin C. Gáspárdy, and D. Andrew R. Drake
+  - **Outlet**: DFO Canadian Manuscript Report of Fisheries and Aquatic Sciences 3305: vi + 20 p.
+
 ## 2024
 ### [Information Components to Inform Section 73 of the *Species at Risk Act* for Redside Dace (*Clinostomus elongatus*) and Silver Shiner (*Notropis photogenis*), and Review of the Proposed Cumulative Effects Assessment Framework - Ontario Highway 413 Project](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41272900.pdf)
   - **Authors**: Emma E. Hodgson, Jacob W. Brownscombe, Cindy Chu,  Julia E. Colm, Roanne Collins, Roland Cormier, D. Andrew R. Drake, Haitham Ghamry, Paul Grant, Marten A. Koops, <ins>Karl A. Lamothe</ins>, Cathryn Clarke Murray, Drew Cheston, Brandi Mogg, Chris Strand, Brianna Wyn, Amy Boyko, Jessica Epp-Martindale, Scott Reid, Nicholas Mandrak, Gabriel Bernard-Lacaille, Justin Shead, and Joclyn E. Paulic
