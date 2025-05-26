@@ -6,7 +6,7 @@ author: Karl Lamothe
 List and links to my government reports
 
 ## 2025
-### Disease Screening of Fishes in Candidate Source and Recipient Locations to Inform Eastern Sand Darter Reintroduction
+### [Disease Screening of Fishes in Candidate Source and Recipient Locations to Inform Eastern Sand Darter Reintroduction](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41287745.pdf)
   - **Authors**: <ins>Karl A. Lamothe</ins>, David Groman, Carly White, Jason Barnucz, Robin C. Gáspárdy, and D. Andrew R. Drake
   - **Outlet**: DFO Canadian Manuscript Report of Fisheries and Aquatic Sciences 3305: vi + 20 p.
 
