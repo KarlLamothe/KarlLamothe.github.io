@@ -8,11 +8,11 @@ List and links to my journal articles. Also see my [Google Scholar](https://scho
 ## 2025
 ### [Abundance estimates and habitat associations for two least-disturbed Redside Dace (*Clinostomus elongatus*) populations in tributaries of Lake Huron (Ontario, Canada)](https://doi.org/10.1139/cjfas-2024-0304)
 - **Authors**: <ins>Karl A. Lamothe</ins> and D. Andrew R. Drake
-- **Journal**: Canadian Journal of Fisheries and Aquatic Sciences
+- **Journal**: Canadian Journal of Fisheries and Aquatic Sciences, 82, 1-11
 
-### [Habitat stratification for maximizing the power to detect proportional declines in occupancy of an imperilled freshwater fish species](https://doi.org/10.1139/cjfas-2024-0389)
+### [Habitat stratification to maximize the power to detect proportional declines in occupancy of an imperilled freshwater fish species](https://doi.org/10.1139/cjfas-2024-0389)
 - **Authors**: <ins>Karl A. Lamothe</ins>, Matthew M. Guzzo, Neil J. Mochnacz, and D. Andrew R. Drake
-- **Journal**: Canadian Journal of Fisheries and Aquatic Sciences
+- **Journal**: Canadian Journal of Fisheries and Aquatic Sciences, 82, 1-13
 
 ## 2022
 ### [Stage‐specific abiotic and biotic associations of the imperilled Silver Shiner _Notropis photogenis_ in an urban drainage](https://dx.doi.org/10.1111/eff.12652)
