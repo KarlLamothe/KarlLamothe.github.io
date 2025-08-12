@@ -6,6 +6,10 @@ author: Karl Lamothe
 List of my presentations (or contributions to).
 
 ## 2025
+### 59) Redside Dace Recovery Team Translocation Subcommittee
+  - Burlington, Ontario, Canada: August 2025
+  - Oral presentation: "Abundance Estimates and Habitat Associations for Two Least-disturbed Redside Dace (_Clinostomus elongatus_) populations in tributaries of Lake Huron (Ontario, Canada)"
+    
 ### 58) International Association of Great Lakes Research Annual Meeting
   - Virtual: June 2025
   - Oral presentation given by Bo Bunnell: "Incorporating Stakeholders into Decisions to Identify Source Populations for Conservation Translocations"
