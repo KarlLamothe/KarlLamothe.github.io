@@ -6,6 +6,10 @@ author: Karl Lamothe
 List and links to my government reports
 
 ## 2025
+### [Evaluating the Ecological Benefits, Risks, and Feasibility of Reintroduction for Eastern Sand Darter (_Ammocrypta pellucida_) in Ontario](https://www.dfo-mpo.gc.ca/csas-sccs/Publications/SAR-AS/2025/2025_023-eng.pdf) 
+  - **Authors**: Fisheries and Oceans Canada
+  - **Outlet**: DFO Canadian Science Advisory Secretariat Science Advisory Report 2025/023
+
 ### [Proceedings of the Regional Peer-review Meeting for Evaluating the Ecological Benefits and Risks of an Experimental Eastern Sand Darter (_Ammocrypta pellucida_) Reintroduction in Ontario](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41297234.pdf)
   - **Authors**: Julia E. Colm, <ins>Karl A. Lamothe</ins>, Jason M. Barnucz, Amy Boyko, Jeremy E. Broome, Alan J. Dextrase, Jennifer Diment, Britney L. Firth, Paul Gagnon, William R. Glass, Paul Grant, Kari Jean, Marten A. Koops, Nicholas E. Mandrak, Todd J. Morris, Gilles Olivier, Trevor E. Pitcher, Lindsay Potts, Scott M. Reid, Shawn K. Staton, Wendylee Stott, Adam S. van der Lee, Chris C. Wilson, and D. Andrew R. Drake
   - **Outlet**: DFO Canadian Manuscript Report of Fisheries and Aquatic Sciences 3301: v + 56 p.
