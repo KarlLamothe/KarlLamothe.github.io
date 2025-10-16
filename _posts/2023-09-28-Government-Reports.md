@@ -6,6 +6,14 @@ author: Karl Lamothe
 List and links to my government reports
 
 ## 2025
+### Summary of Targeted Sampling for Eastern Sand Darter (_Ammocrypta pellucida_) in the Ausable River, Ontario: 2007 and 2017
+  - **Authors**: <ins>Karl A. Lamothe</ins>, Alan J. Dextrase, Jason Barnucz, Robin C. Gáspárdy, Kari Jean, and D. Andrew R. Drake
+  - **Outlet**: DFO Data Report for Fisheries and Aquatic Sciences 3309: vi + 24 p.
+
+### Considerations for the Design of a SARA-listed Freshwater Fish Monitoring Program in Point Pelee National Park
+  - **Authors**: <ins>Karl A. Lamothe</ins> and D. Andrew R. Drake
+  - DFO Canadian Manuscript Report of Fisheries and Aquatic Sciences 3308: vi + 19 p.
+
 ### [Evaluating the Ecological Benefits, Risks, and Feasibility of Reintroduction for Eastern Sand Darter (_Ammocrypta pellucida_) in Ontario](https://www.dfo-mpo.gc.ca/csas-sccs/Publications/SAR-AS/2025/2025_023-eng.pdf) 
   - **Authors**: Fisheries and Oceans Canada
   - **Outlet**: DFO Canadian Science Advisory Secretariat Science Advisory Report 2025/023
