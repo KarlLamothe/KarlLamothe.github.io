@@ -3,7 +3,7 @@ title: Karl Lamothe
 description: Aquatic Science Biologist
 url: https://KarlLamothe.github.io
 paginate: 5
-avatar: /Profile_picture.jpeg
+avatar: /Headshot2.jpg
 cover_image: /Algonquin.jpg
 
 # Gems
@@ -36,7 +36,6 @@ social:
   links:
     - https://twitter.com/KarlLamothe
     - https://github.com/KarlLamothe
-    - https://bsky.app/profile/karllamothe.bsky.social
 google_site_verification: xxxxx
 lang: en
 
