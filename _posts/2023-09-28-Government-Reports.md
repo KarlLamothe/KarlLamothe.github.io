@@ -6,7 +6,7 @@ author: Karl Lamothe
 List and links to my government reports
 
 ## 2025
-### Summary of Targeted Sampling for Eastern Sand Darter (_Ammocrypta pellucida_) in the Ausable River, Ontario: 2007 and 2017
+### [Summary of Targeted Sampling for Eastern Sand Darter (_Ammocrypta pellucida_) in the Ausable River, Ontario: 2007 and 2017](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41304755.pdf)
   - **Authors**: <ins>Karl A. Lamothe</ins>, Alan J. Dextrase, Jason Barnucz, Robin C. Gáspárdy, Kari Jean, and D. Andrew R. Drake
   - **Outlet**: DFO Data Report for Fisheries and Aquatic Sciences 3309: vi + 24 p.
 
