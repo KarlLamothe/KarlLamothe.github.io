@@ -10,7 +10,7 @@ List and links to my government reports
   - **Authors**: <ins>Karl A. Lamothe</ins>, Alan J. Dextrase, Jason Barnucz, Robin C. Gáspárdy, Kari Jean, and D. Andrew R. Drake
   - **Outlet**: DFO Data Report for Fisheries and Aquatic Sciences 3309: vi + 24 p.
 
-### [Considerations for the Design of a SARA-listed Freshwater Fish Monitoring Program in Point Pelee National Park](https://doi.org/10.60825/3d07-0q37)
+### [Considerations for the Design of a SARA-listed Freshwater Fish Monitoring Program in Point Pelee National Park](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41305000.pdf)
   - **Authors**: <ins>Karl A. Lamothe</ins> and D. Andrew R. Drake
   - DFO Canadian Manuscript Report of Fisheries and Aquatic Sciences 3308: vi + 19 p.
 
