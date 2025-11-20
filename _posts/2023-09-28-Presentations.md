@@ -7,7 +7,7 @@ List of my presentations (or contributions to).
 
 ## 2026
 ### 60) DFO GLLFAS SCHWM Team Research Seminar
-  - Virtual: December 2025
+  - Virtual: January 2026
   - Invited oral presentation: "Eastern Sand Darter Reintroduction to Big Otter Creek, Ontario"
 
 ## 2025
