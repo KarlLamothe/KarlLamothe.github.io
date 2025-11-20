@@ -5,11 +5,12 @@ author: Karl Lamothe
 ---
 List of my presentations (or contributions to).
 
-## 2025
+## 2026
 ### 60) DFO GLLFAS SCHWM Team Research Seminar
   - Virtual: December 2025
-  - Oral presentation: "Eastern Sand Darter Reintroduction to Big Otter Creek, Ontario"
+  - Invited oral presentation: "Eastern Sand Darter Reintroduction to Big Otter Creek, Ontario"
 
+## 2025
 ### 59) Redside Dace Recovery Team Translocation Subcommittee
   - Burlington, Ontario, Canada: August 2025
   - Oral presentation: "Abundance Estimates and Habitat Associations for Two Least-disturbed Redside Dace (_Clinostomus elongatus_) populations in tributaries of Lake Huron (Ontario, Canada)"
