@@ -124,7 +124,7 @@ List and links to my journal articles. Also see my [Google Scholar](https://scho
 - **Authors**: <ins>Karl A. Lamothe</ins> and Ronald L. Johnson
 - **Journal**: Journal of the Arkansas Academy of Science, 67, 71-80
 
-##2012
+## 2012
 ### 1) [Shifting genetic composition of largemouth bass populations in dendritic arms of two large Arkansas reservoirs through stocking of Florida largemouth bass](http://www.seafwa.org/pdfs/articles/15Lamotheetal82-87.pdf)
 - **Authors**: <ins>Karl A. Lamothe</ins>, Ryan M. Allen, Christopher Cato, Kelly Winningham, Colton Dennis, and Ronald L. Johnson
 - **Journal**: Proceedings of Annual Conference of Southeastern Association of Fish and Wildlife Agencies, 66, 82-87
