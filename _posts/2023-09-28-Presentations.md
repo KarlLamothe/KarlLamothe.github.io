@@ -6,14 +6,18 @@ author: Karl Lamothe
 List of my presentations (or contributions to).
 
 ## 2026
-### 60) DFO GLLFAS SCHWM Team Research Seminar
+### 61) Fisheries and Oceans Canada 2026 Spring Science Showcase
+  - Virtual; February 2026
+  - Invited oral presentation: "Monitoring Small-bodied, SARA-listed Fishes: Lessons Learned from Silver Shiner and Redside Dace"
+
+### 60) Fisheries and Oceans Canada GLLFAS SCHWM Team Research Seminar
   - Virtual: January 2026
   - Invited oral presentation: "Eastern Sand Darter Reintroduction to Big Otter Creek, Ontario"
 
 ## 2025
 ### 59) Redside Dace Recovery Team Translocation Subcommittee
   - Burlington, Ontario, Canada: August 2025
-  - Oral presentation: "Abundance Estimates and Habitat Associations for Two Least-disturbed Redside Dace (_Clinostomus elongatus_) populations in tributaries of Lake Huron (Ontario, Canada)"
+  - Oral presentation: "Abundance Estimates and Habitat Associations for Two Least-disturbed Redside Dace (_Clinostomus elongatus_) Populations in Tributaries of Lake Huron (Ontario, Canada)"
     
 ### 58) International Association of Great Lakes Research Annual Meeting
   - Virtual: June 2025
