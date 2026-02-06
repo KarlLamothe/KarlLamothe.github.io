@@ -6,7 +6,7 @@ author: Karl Lamothe
 List and links to my journal articles. Also see my [Google Scholar](https://scholar.google.com/citations?user=kU1hc6cAAAAJ&hl=en&oi=ao) or [ResearchGate](https://www.researchgate.net/profile/Karl-Lamothe) profiles.
 
 ## 2026
-### 29) Comparison of Conventional, Rake, and Sonar-based Biophysical Habitat Measurements in a Shallow Ontario River
+### 29) Comparison of conventional, rake, and sonar-based biophysical habitat measurements in a shallow Ontario river
 - **Authors**: <ins>Karl A. Lamothe</ins>, Jason Barnucz, and D. Andrew R. Drake
 - **Journal**: River Research and Applications, Accepted
 
