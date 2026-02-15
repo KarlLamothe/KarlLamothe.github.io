@@ -5,6 +5,11 @@ author: Karl Lamothe
 ---
 List and links to my government reports
 
+## 2026
+### 16) Silver Shiner (_Notropis photogenis_) Population Abundance in Sixteen Mile Creek, Ontario (2022-2023)
+  - **Authors**: <ins>Karl A. Lamothe</ins> and D. Andrew R. Drake
+  - **Outlet**: DFO Canadian Manuscript Report of Fisheries and Aquatic Sciences 3319: vi + 16 p.
+
 ## 2025
 ### 15) [Summary of Targeted Sampling for Eastern Sand Darter (_Ammocrypta pellucida_) in the Ausable River, Ontario: 2007 and 2017](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41304755.pdf)
   - **Authors**: <ins>Karl A. Lamothe</ins>, Alan J. Dextrase, Jason Barnucz, Robin C. Gáspárdy, Kari Jean, and D. Andrew R. Drake
