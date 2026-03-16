@@ -6,15 +6,15 @@ author: Karl Lamothe
 List and links to my journal articles. Also see my [Google Scholar](https://scholar.google.com/citations?user=kU1hc6cAAAAJ&hl=en&oi=ao) or [ResearchGate](https://www.researchgate.net/profile/Karl-Lamothe) profiles.
 
 ## 2026
-### 30) Passive sampling approaches and seining revealed limited changes in the fish community of Point Pelee National Park over two decades
-- **Authors**: <ins>Karl A. Lamothe</ins>, Jason Barnucz, Heather Surette, and D. Andrew R. Drake
-- **Journal**: Aquatic Ecosystem Health and Management
-
-### 29) [Comparison of conventional, rake, and sonar-based biophysical habitat measurements in a shallow Ontario river](https://doi.org/10.1002/rra.70120)
+### 30) [Comparison of conventional, rake, and sonar-based biophysical habitat measurements in a shallow Ontario river](https://doi.org/10.1002/rra.70120)
 - **Authors**: <ins>Karl A. Lamothe</ins>, Jason Barnucz, and D. Andrew R. Drake
 - **Journal**: River Research and Applications
 
 ## 2025
+### 29) Passive sampling approaches and seining revealed limited changes in the fish community of Point Pelee National Park over two decades
+- **Authors**: <ins>Karl A. Lamothe</ins>, Jason Barnucz, Heather Surette, and D. Andrew R. Drake
+- **Journal**: Aquatic Ecosystem Health and Management, 28(3), 50-65
+
 ### 28) [Abundance estimates and habitat associations for two least-disturbed Redside Dace (*Clinostomus elongatus*) populations in tributaries of Lake Huron (Ontario, Canada)](https://doi.org/10.1139/cjfas-2024-0304)
 - **Authors**: <ins>Karl A. Lamothe</ins> and D. Andrew R. Drake
 - **Journal**: Canadian Journal of Fisheries and Aquatic Sciences, 82, 1-11
