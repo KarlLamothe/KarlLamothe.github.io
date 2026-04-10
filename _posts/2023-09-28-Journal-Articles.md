@@ -11,7 +11,7 @@ List and links to my journal articles. Also see my [Google Scholar](https://scho
 - **Journal**: River Research and Applications
 
 ## 2025
-### 29) Passive sampling approaches and seining revealed limited changes in the fish community of Point Pelee National Park over two decades
+### 29) [Passive sampling approaches and seining revealed limited changes in the fish community of Point Pelee National Park over two decades](https://doi.org/10.65087/aehm.028.03.5)
 - **Authors**: <ins>Karl A. Lamothe</ins>, Jason Barnucz, Heather Surette, and D. Andrew R. Drake
 - **Journal**: Aquatic Ecosystem Health and Management, 28(3), 50-65
 
