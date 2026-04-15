@@ -6,7 +6,7 @@ author: Karl Lamothe
 List and links to my government reports
 
 ## 2026
-### 16) Silver Shiner (_Notropis photogenis_) Population Abundance in Sixteen Mile Creek, Ontario (2022-2023)
+### 16) [Silver Shiner (_Notropis photogenis_) Population Abundance in Sixteen Mile Creek, Ontario (2022-2023)](https://doi.org/10.60825/wgbn-vb74)
   - **Authors**: <ins>Karl A. Lamothe</ins> and D. Andrew R. Drake
   - **Outlet**: DFO Canadian Manuscript Report of Fisheries and Aquatic Sciences 3319: vi + 16 p.
 
