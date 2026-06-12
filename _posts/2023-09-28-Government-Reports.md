@@ -10,9 +10,9 @@ List and links to my government reports
   - **Author**: <ins>Karl A. Lamothe</ins>
   - **Outlet**: DFO Canadian Manuscript Report of Fisheries and Aquatic Sciences 3333: vi + 33 p.
 
-### 17) Evaluating the Ecological Benefits and Risks of an Experimental Kidneyshell (_Ptychobranchus fasciolaris_) Reintroduction in Ontario
+### 17) [Evaluating the Ecological Benefits and Risks of an Experimental Kidneyshell (_Ptychobranchus fasciolaris_) Reintroduction in Ontario](https://doi.org/10.60825/mefv-2j36)
   - **Authors**: Todd J. Morris, Kelly A. McNichols-O’Rourke, Jason M. Barnucz, <ins>Karl A. Lamothe</ins>, and Lauren E. Damphousse
-  - **Outlet**: DFO Canadian Manuscript Report of Fisheries and Aquatic Sciences 3332: xi + 72 p.
+  - **Outlet**: DFO Canadian Manuscript Report of Fisheries and Aquatic Sciences 3332: xii + 72 p.
 
 ### 16) [Silver Shiner (_Notropis photogenis_) Population Abundance in Sixteen Mile Creek, Ontario (2022-2023)](https://doi.org/10.60825/wgbn-vb74)
   - **Authors**: <ins>Karl A. Lamothe</ins> and D. Andrew R. Drake
