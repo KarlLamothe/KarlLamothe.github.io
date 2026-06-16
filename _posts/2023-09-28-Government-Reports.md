@@ -6,9 +6,9 @@ author: Karl Lamothe
 List and links to my government reports
 
 ## 2026
-### 18) Implementing a Three-step Expert-elicitation Approach to Inform Ecological Decision-making. 
+### 18) [Implementing a Three-step Expert-elicitation Approach to Inform Ecological Decision-making](https://doi.org/10.60825/b7sr-pv60)
   - **Author**: <ins>Karl A. Lamothe</ins>
-  - **Outlet**: DFO Canadian Manuscript Report of Fisheries and Aquatic Sciences 3333: vi + 33 p.
+  - **Outlet**: DFO Canadian Manuscript Report of Fisheries and Aquatic Sciences 3333: vii + 33 p.
 
 ### 17) [Evaluating the Ecological Benefits and Risks of an Experimental Kidneyshell (_Ptychobranchus fasciolaris_) Reintroduction in Ontario](https://doi.org/10.60825/mefv-2j36)
   - **Authors**: Todd J. Morris, Kelly A. McNichols-O’Rourke, Jason M. Barnucz, <ins>Karl A. Lamothe</ins>, and Lauren E. Damphousse
