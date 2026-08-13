@@ -6,7 +6,7 @@ author: Karl Lamothe
 List and links to my journal articles. Also see my [Google Scholar](https://scholar.google.com/citations?user=kU1hc6cAAAAJ&hl=en&oi=ao) or [ResearchGate](https://www.researchgate.net/profile/Karl-Lamothe) profiles.
 
 ## 2026
-### 31) Evidence-to-decision framework using expert elicitation for conservation translocation decision-making 
+### 31) [Evidence-to-decision framework using expert elicitation for conservation translocation decision-making](https://doi.org/10.3354/esr01541)
 - **Authors**: <ins>Karl A. Lamothe</ins>, Todd J. Morris, and D. Andrew R. Drake
 - **Journal**: Endangered Species Research
 
