@@ -6,6 +6,10 @@ author: Karl Lamothe
 List and links to my government reports
 
 ## 2026
+### 19) [Updated Recovery Potential Assessment of Eastern Sand Darter (_Ammocrypta pellucida_) in Ontario (Southwestern Ontario and West Lake Designatable Units), 2010–2022](https://csas-scas.dfo-mpo.gc.ca/publications-publications/6bbdf1b6-2637-4b52-9f93-6580b2fe0429?lang=en)
+  - **Author**: Fisheries and Oceans Canada
+  - **Outlet**: DFO Canadian Science Advisory Secretariat Science Response 2026/027
+
 ### 18) [Implementing a Three-step Expert-elicitation Approach to Inform Ecological Decision-making](https://doi.org/10.60825/b7sr-pv60)
   - **Author**: <ins>Karl A. Lamothe</ins>
   - **Outlet**: DFO Canadian Manuscript Report of Fisheries and Aquatic Sciences 3333: vii + 33 p.
