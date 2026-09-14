@@ -6,7 +6,7 @@ author: Karl Lamothe
 List and links to my journal articles. Also see my [Google Scholar](https://scholar.google.com/citations?user=kU1hc6cAAAAJ&hl=en&oi=ao) or [ResearchGate](https://www.researchgate.net/profile/Karl-Lamothe) profiles.
 
 ## 2026
-### 32) Key considerations for decision makers and stakeholders when identifying source populations for conservation translocations of fishes
+### 32) [Key considerations for decision makers and stakeholders when identifying source populations for conservation translocations of fishes](https://doi.org/10.1016/j.gecco.2026.e04423)
 - **Authors**: David B. Bunnell, Amanda S. Ackiss, Alexander J. Gatch, D. Andrew R. Drake, Andrew E. Honsey, Trevor J. Krabbenhoft, William L. Stacy-Duffy, Randall M. Claramunt, Roger Gordon, Meredith L. Bartron, John M. Dettmers, Erin S. Dunlop, Joshua P. Egan, <ins>Karl A. Lamothe</ins>, Seth Moore, Andrew M. Muir, Jason Robinson, and Chris C. Wilson
 - **Journal**: Global Ecology and Conservation
 
