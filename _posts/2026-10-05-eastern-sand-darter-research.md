@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Reintroduction and Eastern Sand Darter specific literature
+title: Conservation Translocations and Eastern Sand Darter reintroduction
 author: Karl Lamothe
 ---
+Research done in support of conservation translocations, including for Eastern Sand Darter
 
 ## 2026
 ### [Key considerations for decision makers and stakeholders when identifying source populations for conservation translocations of fishes](https://doi.org/10.1016/j.gecco.2026.e04423)
