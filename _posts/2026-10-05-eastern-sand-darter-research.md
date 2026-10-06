@@ -18,6 +18,10 @@ Research done in support of conservation translocations, including for Eastern S
 - **Authors**: <ins>Karl A. Lamothe</ins>, Todd J. Morris, and D. Andrew R. Drake
 - **Journal**: Endangered Species Research
 
+### [Evaluating the Ecological Benefits and Risks of an Experimental Kidneyshell (_Ptychobranchus fasciolaris_) Reintroduction in Ontario](https://doi.org/10.60825/mefv-2j36)
+  - **Authors**: Todd J. Morris, Kelly A. McNichols-O’Rourke, Jason M. Barnucz, <ins>Karl A. Lamothe</ins>, and Lauren E. Damphousse
+  - **Outlet**: DFO Canadian Manuscript Report of Fisheries and Aquatic Sciences 3332: xii + 72 p.
+
 ## 2025
 ### [Summary of Targeted Sampling for Eastern Sand Darter (_Ammocrypta pellucida_) in the Ausable River, Ontario: 2007 and 2017](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41304755.pdf)
   - **Authors**: <ins>Karl A. Lamothe</ins>, Alan J. Dextrase, Jason Barnucz, Robin C. Gáspárdy, Kari Jean, and D. Andrew R. Drake
