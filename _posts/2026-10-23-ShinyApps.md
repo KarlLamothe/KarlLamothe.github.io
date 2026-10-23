@@ -3,8 +3,8 @@ layout: post
 title: Shiny Apps
 author: Karl Lamothe
 ---
+Open Access RShiny apps I've developed.
 
-# Shiny Apps 
 ## Expert Elicitation Tool
 https://github.com/KarlLamothe/Expert-Elicitation-ShinyApp
 
