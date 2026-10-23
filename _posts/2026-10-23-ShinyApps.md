@@ -1,3 +1,9 @@
+---
+layout: post
+title: Shiny Apps
+author: Karl Lamothe
+---
+
 # Shiny Apps 
 ## Expert Elicitation Tool
 https://github.com/KarlLamothe/Expert-Elicitation-ShinyApp
