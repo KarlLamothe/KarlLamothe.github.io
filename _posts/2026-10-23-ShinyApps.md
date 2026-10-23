@@ -21,7 +21,7 @@ Designed for scientific advisory processes, risk assessments, and conservation p
 
 <i>R Shiny | Conservation Science | Decision Support</i>
 
-An interactive Shiny application developed to support the exploration of Canadian freshwater fish species listed under the <i>Species at Risk Act</i>. The tool brings together species profiles, recovery planning information, threat assessments, and supporting documentation into a single, user-friendly interface.
+An interactive Shiny application developed to support the exploration of Canadian freshwater fish species listed under the <i>Species at Risk Act</i> by scraping the SAR Registry. The tool brings together species profiles, recovery planning information, threat assessments, and supporting documentation into a single, user-friendly interface.
 
 Users can search and filter species by SARA status, geographic range, species, or population/designatable unit, enabling efficient access to relevant conservation information. Interactive summaries and visualizations allow users to examine threat patterns, recovery planning coverage, and species-specific details, while integrated document access simplifies the review of recovery strategies, action plans, and related reports.
 
