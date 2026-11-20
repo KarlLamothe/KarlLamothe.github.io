@@ -41,7 +41,7 @@ Research done in support of conservation translocations, including for Eastern S
   - **Outlet**: DFO Canadian Manuscript Report of Fisheries and Aquatic Sciences 3305: vi + 20 p.
 
 ## 2023
-### [Decision Support Framework for the Conservation Translocation of SARA-listed Freshwater Fishes and Mussels](https://www.dfo-mpo.gc.ca/csas-sccs/Publications/ResDocs-DocRech/2022/2022_064-eng.pdf)
+### [Decision Support Framework for the Conservation Translocation of SARA-listed Freshwater Fishes and Mussels](https://csas-scas.dfo-mpo.gc.ca/publications-publications/8cc23948-cf8a-42cb-b551-323a5b61efd9?lang=en)
   - **Authors**: <ins>Karl A. Lamothe</ins>, Todd J. Morris, and D. Andrew R. Drake
   - **Outlet**: DFO Canadian Science Advisory Secretariat Science Advisory Report 2022/46
   - **Outlet**: DFO Canadian Science Advisory Secretariat Research Document 2022/64
